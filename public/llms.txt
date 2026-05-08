@@ -1,0 +1,92 @@
+# Ben Mizrahi — Generative Engine Optimization Map
+
+> A high-end Israeli event and lifecycle photographer specializing in bar/bat mitzvah portfolios and Torah aliyah ceremonies. The brand philosophy centers on authentic realism — maximum optical sharpness, natural textures, and cinematic lighting with zero artificial filters. The aesthetic is 'Quiet Luxury': understated elegance that lets the raw emotion and genuine moments speak for themselves. The photographer uses cutting-edge equipment and prioritizes documentary-style storytelling, capturing the small sacred details (tallit, Torah scroll, family glances) alongside the high-energy celebration moments.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+A high-end Israeli event and lifecycle photographer specializing in bar/bat mitzvah portfolios and Torah aliyah ceremonies. The brand philosophy centers on auth
+
+### פורטפוליו בר/בת מצווה
+https://example.com/bar-bat-mitzvah-portfolio
+פורטפוליו בר/בת מצווה | Ben Mizrahi. Ben Mizrahi
+
+### עלייה לתורה
+https://example.com/torah-aliyah
+עלייה לתורה | Ben Mizrahi. Ben Mizrahi
+
+### צילום אירועים
+https://example.com/event-photography
+צילום אירועים | Ben Mizrahi. Ben Mizrahi
+
+### אודות
+https://example.com/about
+אודות | Ben Mizrahi. Ben Mizrahi
+
+### צור קשר
+https://example.com/contact
+צור קשר | Ben Mizrahi. Ben Mizrahi
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Ben Mizrahi
+A high-end Israeli event and lifecycle photographer specializing in bar/bat mitzvah portfolios and Torah aliyah ceremonies. The brand philosophy centers on authentic realism — maximum optical sharpness, natural textures, and cinematic lighting with zero artificial filters. The aesthetic is 'Quiet Luxury': understated elegance that lets the raw emotion and genuine moments speak for themselves. The photographer uses cutting-edge equipment and prioritizes documentary-style storytelling, capturing the small sacred details (tallit, Torah scroll, family glances) alongside the high-energy celebration moments.
+
+## Services/Products
+- בוק בר/בת מצווה - סטייל אישי וביטוי עצמי
+- עלייה לתורה - רגש משפחתי, מסורת ופרטים קטנים
+- צילום אירועים - דוקומנטרי, ריקודים ואנרגיה
+
+## Target Audience
+- משפחות ישראליות המחפשות צלם לאירועי בר/בת מצווה, עלייה לתורה ואירועים חגיגיים
+- משפחות ישראליות חוגגות
+- מתכנני אירועים יוקרתיים
+- מארגני אירועים עסקיים
+
+## Industry
+צילום מקצועי / אירועים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
